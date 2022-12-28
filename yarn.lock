@@ -1565,6 +1565,7 @@
   resolved "https://registry.npmjs.org/@pmmmwh/react-refresh-webpack-plugin/-/react-refresh-webpack-plugin-0.5.10.tgz"
   integrity sha512-j0Ya0hCFZPd4x40qLzbhGsh9TMtdb+CJQiso+WxLOPNasohq9cc5SNUcwsZaRH6++Xh91Xkm/xHCkuIiIu0LUA==
   dependencies:
+<<<<<<< Updated upstream
     ansi-html-community "^0.0.8"
     common-path-prefix "^3.0.0"
     core-js-pure "^3.23.3"
@@ -1574,6 +1575,25 @@
     loader-utils "^2.0.4"
     schema-utils "^3.0.0"
     source-map "^0.7.3"
+=======
+    "ansi-html-community" "^0.0.8"
+    "common-path-prefix" "^3.0.0"
+    "core-js-pure" "^3.23.3"
+    "error-stack-parser" "^2.0.6"
+    "find-up" "^5.0.0"
+    "html-entities" "^2.1.0"
+    "loader-utils" "^2.0.4"
+    "schema-utils" "^3.0.0"
+    "source-map" "^0.7.3"
+<<<<<<< Updated upstream
+=======
+
+"@remix-run/router@1.2.1":
+  "integrity" "sha512-XiY0IsyHR+DXYS5vBxpoBe/8veTeoRpMHP+vDosLZxL5bnpetzI0igkxkLZS235ldLzyfkxF+2divEwWHP3vMQ=="
+  "resolved" "https://registry.npmjs.org/@remix-run/router/-/router-1.2.1.tgz"
+  "version" "1.2.1"
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
 
 "@rollup/plugin-babel@^5.2.0":
   version "5.3.1"
@@ -3948,6 +3968,7 @@ escodegen@^2.0.0:
   optionalDependencies:
     source-map "~0.6.1"
 
+<<<<<<< Updated upstream
 eslint-config-prettier@^8.5.0:
   version "8.5.0"
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz#5a81680ec934beca02c7b1a61cf8ca34b66feab1"
@@ -3957,6 +3978,20 @@ eslint-config-react-app@^7.0.1:
   version "7.0.1"
   resolved "https://registry.npmjs.org/eslint-config-react-app/-/eslint-config-react-app-7.0.1.tgz"
   integrity sha512-K6rNzvkIeHaTd8m/QEh1Zko0KI7BACWkkneSs6s9cKZC/J27X3eZR6Upt1jkmZ/4FK+XUOPPxMEN7+lbUXfSlA==
+=======
+<<<<<<< Updated upstream
+=======
+"eslint-config-prettier@^8.5.0":
+  "integrity" "sha512-obmWKLUNCnhtQRKc+tmnYuQl0pFU1ibYJQ5BGhTVB08bHe9wC8qUeG7c08dj9XX+AuPj1YSGSQIHl1pnDHZR0Q=="
+  "resolved" "https://registry.npmjs.org/eslint-config-prettier/-/eslint-config-prettier-8.5.0.tgz"
+  "version" "8.5.0"
+
+>>>>>>> Stashed changes
+"eslint-config-react-app@^7.0.1":
+  "integrity" "sha512-K6rNzvkIeHaTd8m/QEh1Zko0KI7BACWkkneSs6s9cKZC/J27X3eZR6Upt1jkmZ/4FK+XUOPPxMEN7+lbUXfSlA=="
+  "resolved" "https://registry.npmjs.org/eslint-config-react-app/-/eslint-config-react-app-7.0.1.tgz"
+  "version" "7.0.1"
+>>>>>>> Stashed changes
   dependencies:
     "@babel/core" "^7.16.0"
     "@babel/eslint-parser" "^7.16.3"
@@ -4041,13 +4076,27 @@ eslint-plugin-jsx-a11y@^6.5.1:
     minimatch "^3.1.2"
     semver "^6.3.0"
 
+<<<<<<< Updated upstream
 eslint-plugin-prettier@^4.2.1:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-prettier/-/eslint-plugin-prettier-4.2.1.tgz#651cbb88b1dab98bfd42f017a12fa6b2d993f94b"
   integrity sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ==
+=======
+<<<<<<< Updated upstream
+"eslint-plugin-react-hooks@^4.3.0":
+  "integrity" "sha512-oFc7Itz9Qxh2x4gNHStv3BqJq54ExXmfC+a1NjAta66IAN87Wu0R/QArgIS9qKzX3dXKPI9H5crl9QchNMY9+g=="
+  "resolved" "https://registry.npmjs.org/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.6.0.tgz"
+  "version" "4.6.0"
+
+"eslint-plugin-react@^7.27.1":
+  "integrity" "sha512-TTvq5JsT5v56wPa9OYHzsrOlHzKZKjV+aLgS+55NJP/cuzdiQPC7PfYoUjMoxlffKtvijpk7vA/jmuqRb9nohw=="
+  "resolved" "https://registry.npmjs.org/eslint-plugin-react/-/eslint-plugin-react-7.31.11.tgz"
+  "version" "7.31.11"
+>>>>>>> Stashed changes
   dependencies:
     prettier-linter-helpers "^1.0.0"
 
+<<<<<<< Updated upstream
 eslint-plugin-react-hooks@^4.3.0:
   version "4.6.0"
   resolved "https://registry.npmjs.org/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.6.0.tgz"
@@ -4078,6 +4127,47 @@ eslint-plugin-testing-library@^5.0.1:
   version "5.9.1"
   resolved "https://registry.npmjs.org/eslint-plugin-testing-library/-/eslint-plugin-testing-library-5.9.1.tgz"
   integrity sha512-6BQp3tmb79jLLasPHJmy8DnxREe+2Pgf7L+7o09TSWPfdqqtQfRZmZNetr5mOs3yqZk/MRNxpN3RUpJe0wB4LQ==
+=======
+=======
+"eslint-plugin-prettier@^4.2.1":
+  "integrity" "sha512-f/0rXLXUt0oFYs8ra4w49wYZBG5GKZpAYsJSm6rnYL5uVDjd+zowwMwVZHnAjf4edNrKpCDYfXDgmRE/Ak7QyQ=="
+  "resolved" "https://registry.npmjs.org/eslint-plugin-prettier/-/eslint-plugin-prettier-4.2.1.tgz"
+  "version" "4.2.1"
+  dependencies:
+    "prettier-linter-helpers" "^1.0.0"
+
+"eslint-plugin-react-hooks@^4.3.0":
+  "integrity" "sha512-oFc7Itz9Qxh2x4gNHStv3BqJq54ExXmfC+a1NjAta66IAN87Wu0R/QArgIS9qKzX3dXKPI9H5crl9QchNMY9+g=="
+  "resolved" "https://registry.npmjs.org/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-4.6.0.tgz"
+  "version" "4.6.0"
+
+"eslint-plugin-react@^7.27.1", "eslint-plugin-react@^7.31.11":
+  "integrity" "sha512-TTvq5JsT5v56wPa9OYHzsrOlHzKZKjV+aLgS+55NJP/cuzdiQPC7PfYoUjMoxlffKtvijpk7vA/jmuqRb9nohw=="
+  "resolved" "https://registry.npmjs.org/eslint-plugin-react/-/eslint-plugin-react-7.31.11.tgz"
+  "version" "7.31.11"
+  dependencies:
+    "array-includes" "^3.1.6"
+    "array.prototype.flatmap" "^1.3.1"
+    "array.prototype.tosorted" "^1.1.1"
+    "doctrine" "^2.1.0"
+    "estraverse" "^5.3.0"
+    "jsx-ast-utils" "^2.4.1 || ^3.0.0"
+    "minimatch" "^3.1.2"
+    "object.entries" "^1.1.6"
+    "object.fromentries" "^2.0.6"
+    "object.hasown" "^1.1.2"
+    "object.values" "^1.1.6"
+    "prop-types" "^15.8.1"
+    "resolve" "^2.0.0-next.3"
+    "semver" "^6.3.0"
+    "string.prototype.matchall" "^4.0.8"
+
+>>>>>>> Stashed changes
+"eslint-plugin-testing-library@^5.0.1":
+  "integrity" "sha512-6BQp3tmb79jLLasPHJmy8DnxREe+2Pgf7L+7o09TSWPfdqqtQfRZmZNetr5mOs3yqZk/MRNxpN3RUpJe0wB4LQ=="
+  "resolved" "https://registry.npmjs.org/eslint-plugin-testing-library/-/eslint-plugin-testing-library-5.9.1.tgz"
+  "version" "5.9.1"
+>>>>>>> Stashed changes
   dependencies:
     "@typescript-eslint/utils" "^5.13.0"
 
@@ -4125,10 +4215,21 @@ eslint-webpack-plugin@^3.1.1:
     normalize-path "^3.0.0"
     schema-utils "^4.0.0"
 
+<<<<<<< Updated upstream
 eslint@^8.3.0, eslint@^8.30.0:
   version "8.30.0"
   resolved "https://registry.npmjs.org/eslint/-/eslint-8.30.0.tgz"
   integrity sha512-MGADB39QqYuzEGov+F/qb18r4i7DohCDOfatHaxI2iGlPuC65bwG2gxgO+7DkyL38dRFaRH7RaRAgU6JKL9rMQ==
+=======
+<<<<<<< Updated upstream
+"eslint@*", "eslint@^2 || ^3 || ^4 || ^5 || ^6 || ^7.2.0 || ^8", "eslint@^3 || ^4 || ^5 || ^6 || ^7 || ^8", "eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0", "eslint@^6.0.0 || ^7.0.0 || ^8.0.0", "eslint@^7.0.0 || ^8.0.0", "eslint@^7.5.0 || ^8.0.0", "eslint@^8.0.0", "eslint@^8.1.0", "eslint@^8.3.0", "eslint@^8.30.0", "eslint@>= 6", "eslint@>=5":
+=======
+"eslint@*", "eslint@^2 || ^3 || ^4 || ^5 || ^6 || ^7.2.0 || ^8", "eslint@^3 || ^4 || ^5 || ^6 || ^7 || ^8", "eslint@^3.0.0 || ^4.0.0 || ^5.0.0 || ^6.0.0 || ^7.0.0 || ^8.0.0-0", "eslint@^6.0.0 || ^7.0.0 || ^8.0.0", "eslint@^7.0.0 || ^8.0.0", "eslint@^7.5.0 || ^8.0.0", "eslint@^8.0.0", "eslint@^8.1.0", "eslint@^8.3.0", "eslint@^8.30.0", "eslint@>= 6", "eslint@>=5", "eslint@>=7.0.0", "eslint@>=7.28.0":
+>>>>>>> Stashed changes
+  "integrity" "sha512-MGADB39QqYuzEGov+F/qb18r4i7DohCDOfatHaxI2iGlPuC65bwG2gxgO+7DkyL38dRFaRH7RaRAgU6JKL9rMQ=="
+  "resolved" "https://registry.npmjs.org/eslint/-/eslint-8.30.0.tgz"
+  "version" "8.30.0"
+>>>>>>> Stashed changes
   dependencies:
     "@eslint/eslintrc" "^1.4.0"
     "@humanwhocodes/config-array" "^0.11.8"
@@ -4316,6 +4417,7 @@ fast-deep-equal@^3.1.1, fast-deep-equal@^3.1.3:
   resolved "https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz"
   integrity sha512-f3qQ9oQy9j2AhBe/H9VC91wLmKBCCU/gDOnKNAYG5hswO7BLKj09Hc5HYNz9cGI++xlpDCIgDaitVs03ATR84Q==
 
+<<<<<<< Updated upstream
 fast-diff@^1.1.2:
   version "1.2.0"
   resolved "https://registry.npmjs.org/fast-diff/-/fast-diff-1.2.0.tgz"
@@ -4325,6 +4427,20 @@ fast-glob@^3.2.12, fast-glob@^3.2.9:
   version "3.2.12"
   resolved "https://registry.npmjs.org/fast-glob/-/fast-glob-3.2.12.tgz"
   integrity sha512-DVj4CQIYYow0BlaelwK1pHl5n5cRSJfM60UA0zK891sVInoPri2Ekj7+e1CT3/3qxXenpI+nBBmQAcJPJgaj4w==
+=======
+<<<<<<< Updated upstream
+=======
+"fast-diff@^1.1.2":
+  "integrity" "sha512-xJuoT5+L99XlZ8twedaRf6Ax2TgQVxvgZOYoPKqZufmJib0tL2tegPBOZb1pVNgIhlqDlA0eO0c3wBvQcmzx4w=="
+  "resolved" "https://registry.npmjs.org/fast-diff/-/fast-diff-1.2.0.tgz"
+  "version" "1.2.0"
+
+>>>>>>> Stashed changes
+"fast-glob@^3.2.12", "fast-glob@^3.2.9":
+  "integrity" "sha512-DVj4CQIYYow0BlaelwK1pHl5n5cRSJfM60UA0zK891sVInoPri2Ekj7+e1CT3/3qxXenpI+nBBmQAcJPJgaj4w=="
+  "resolved" "https://registry.npmjs.org/fast-glob/-/fast-glob-3.2.12.tgz"
+  "version" "3.2.12"
+>>>>>>> Stashed changes
   dependencies:
     "@nodelib/fs.stat" "^2.0.2"
     "@nodelib/fs.walk" "^1.2.3"
@@ -7242,10 +7358,23 @@ prelude-ls@~1.1.2:
   resolved "https://registry.npmjs.org/prelude-ls/-/prelude-ls-1.1.2.tgz"
   integrity sha512-ESF23V4SKG6lVSGZgYNpbsiaAkdab6ZgOxe52p7+Kid3W3u3bxR4Vfd/o21dmN7jSt0IwgZ4v5MUd26FEtXE9w==
 
+<<<<<<< Updated upstream
 prettier-linter-helpers@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/prettier-linter-helpers/-/prettier-linter-helpers-1.0.0.tgz"
   integrity sha512-GbK2cP9nraSSUF9N2XwUwqfzlAFlMNYYl+ShE/V+H8a9uNl/oUqB1w2EL54Jh0OlyRSd8RfWYJ3coVS4TROP2w==
+=======
+<<<<<<< Updated upstream
+"pretty-bytes@^5.3.0", "pretty-bytes@^5.4.1":
+  "integrity" "sha512-FFw039TmrBqFK8ma/7OL3sDz/VytdtJr044/QUJtH0wK9lb9jLq9tJyIxUwtQJHwar2BqtiA4iCWSwo9JLkzFg=="
+  "resolved" "https://registry.npmjs.org/pretty-bytes/-/pretty-bytes-5.6.0.tgz"
+  "version" "5.6.0"
+
+"pretty-error@^4.0.0":
+  "integrity" "sha512-AoJ5YMAcXKYxKhuJGdcvse+Voc6v1RgnsR3nWcYU7q4t6z0Q6T86sv5Zq8VIRbOWWFpvdGE83LtdSMNd+6Y0xw=="
+  "resolved" "https://registry.npmjs.org/pretty-error/-/pretty-error-4.0.0.tgz"
+  "version" "4.0.0"
+>>>>>>> Stashed changes
   dependencies:
     fast-diff "^1.1.2"
 
@@ -7267,6 +7396,7 @@ pretty-error@^4.0.0:
     lodash "^4.17.20"
     renderkid "^3.0.0"
 
+<<<<<<< Updated upstream
 pretty-format@^27.0.2, pretty-format@^27.5.1:
   version "27.5.1"
   resolved "https://registry.npmjs.org/pretty-format/-/pretty-format-27.5.1.tgz"
@@ -7280,6 +7410,48 @@ pretty-format@^28.1.3:
   version "28.1.3"
   resolved "https://registry.npmjs.org/pretty-format/-/pretty-format-28.1.3.tgz"
   integrity sha512-8gFb/To0OmxHR9+ZTb14Df2vNxdGCX8g1xWGUTqUw5TiZvcQf5sHKObd5UcPyLLyowNwDAMTF3XWOG1B6mxl1Q==
+=======
+=======
+"prettier-linter-helpers@^1.0.0":
+  "integrity" "sha512-GbK2cP9nraSSUF9N2XwUwqfzlAFlMNYYl+ShE/V+H8a9uNl/oUqB1w2EL54Jh0OlyRSd8RfWYJ3coVS4TROP2w=="
+  "resolved" "https://registry.npmjs.org/prettier-linter-helpers/-/prettier-linter-helpers-1.0.0.tgz"
+  "version" "1.0.0"
+  dependencies:
+    "fast-diff" "^1.1.2"
+
+"prettier@^2.8.1", "prettier@>=2.0.0":
+  "integrity" "sha512-lqGoSJBQNJidqCHE80vqZJHWHRFoNYsSpP9AjFhlhi9ODCJA541svILes/+/1GM3VaL/abZi7cpFzOpdR9UPKg=="
+  "resolved" "https://registry.npmjs.org/prettier/-/prettier-2.8.1.tgz"
+  "version" "2.8.1"
+
+"pretty-bytes@^5.3.0", "pretty-bytes@^5.4.1":
+  "integrity" "sha512-FFw039TmrBqFK8ma/7OL3sDz/VytdtJr044/QUJtH0wK9lb9jLq9tJyIxUwtQJHwar2BqtiA4iCWSwo9JLkzFg=="
+  "resolved" "https://registry.npmjs.org/pretty-bytes/-/pretty-bytes-5.6.0.tgz"
+  "version" "5.6.0"
+
+"pretty-error@^4.0.0":
+  "integrity" "sha512-AoJ5YMAcXKYxKhuJGdcvse+Voc6v1RgnsR3nWcYU7q4t6z0Q6T86sv5Zq8VIRbOWWFpvdGE83LtdSMNd+6Y0xw=="
+  "resolved" "https://registry.npmjs.org/pretty-error/-/pretty-error-4.0.0.tgz"
+  "version" "4.0.0"
+  dependencies:
+    "lodash" "^4.17.20"
+    "renderkid" "^3.0.0"
+
+"pretty-format@^27.0.2", "pretty-format@^27.5.1":
+  "integrity" "sha512-Qb1gy5OrP5+zDf2Bvnzdl3jsTf1qXVMazbvCoKhtKqVs4/YK4ozX4gKQJJVyNe+cajNPn0KoC0MC3FUmaHWEmQ=="
+  "resolved" "https://registry.npmjs.org/pretty-format/-/pretty-format-27.5.1.tgz"
+  "version" "27.5.1"
+  dependencies:
+    "ansi-regex" "^5.0.1"
+    "ansi-styles" "^5.0.0"
+    "react-is" "^17.0.1"
+
+>>>>>>> Stashed changes
+"pretty-format@^28.1.3":
+  "integrity" "sha512-8gFb/To0OmxHR9+ZTb14Df2vNxdGCX8g1xWGUTqUw5TiZvcQf5sHKObd5UcPyLLyowNwDAMTF3XWOG1B6mxl1Q=="
+  "resolved" "https://registry.npmjs.org/pretty-format/-/pretty-format-28.1.3.tgz"
+  "version" "28.1.3"
+>>>>>>> Stashed changes
   dependencies:
     "@jest/schemas" "^28.1.3"
     ansi-regex "^5.0.1"
@@ -7440,10 +7612,21 @@ react-dev-utils@^12.0.1:
     strip-ansi "^6.0.1"
     text-table "^0.2.0"
 
+<<<<<<< Updated upstream
 react-dom@^18.2.0:
   version "18.2.0"
   resolved "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz"
   integrity sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g==
+=======
+<<<<<<< Updated upstream
+"react-dom@^18.0.0", "react-dom@^18.2.0":
+=======
+"react-dom@^18.0.0", "react-dom@^18.2.0", "react-dom@>=16.8":
+>>>>>>> Stashed changes
+  "integrity" "sha512-6IMTriUmvsjHUjNtEDudZfuDQUoWXVxKHhlEGSk81n4YFS+r/Kl99wXiwlVXtPBtJenozv2P+hxDsw9eA7Xo6g=="
+  "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-18.2.0.tgz"
+  "version" "18.2.0"
+>>>>>>> Stashed changes
   dependencies:
     loose-envify "^1.1.0"
     scheduler "^0.23.0"
@@ -7473,10 +7656,35 @@ react-refresh@^0.11.0:
   resolved "https://registry.npmjs.org/react-refresh/-/react-refresh-0.11.0.tgz"
   integrity sha512-F27qZr8uUqwhWZboondsPx8tnC3Ct3SxZA3V5WyEvujRyyNv0VYPhoBg1gZ8/MV5tubQp76Trw8lTv9hzRBa+A==
 
+<<<<<<< Updated upstream
 react-scripts@5.0.1:
   version "5.0.1"
   resolved "https://registry.npmjs.org/react-scripts/-/react-scripts-5.0.1.tgz"
   integrity sha512-8VAmEm/ZAwQzJ+GOMLbBsTdDKOpuZh7RPs0UymvBR2vRk4iZWCskjbFnxqjrzoIvlNNRZ3QJFx6/qDSi6zSnaQ==
+=======
+<<<<<<< Updated upstream
+=======
+"react-router-dom@^6.6.1":
+  "integrity" "sha512-u+8BKUtelStKbZD5UcY0NY90WOzktrkJJhyhNg7L0APn9t1qJNLowzrM9CHdpB6+rcPt6qQrlkIXsTvhuXP68g=="
+  "resolved" "https://registry.npmjs.org/react-router-dom/-/react-router-dom-6.6.1.tgz"
+  "version" "6.6.1"
+  dependencies:
+    "@remix-run/router" "1.2.1"
+    "react-router" "6.6.1"
+
+"react-router@6.6.1":
+  "integrity" "sha512-YkvlYRusnI/IN0kDtosUCgxqHeulN5je+ew8W+iA1VvFhf86kA+JEI/X/8NqYcr11hCDDp906S+SGMpBheNeYQ=="
+  "resolved" "https://registry.npmjs.org/react-router/-/react-router-6.6.1.tgz"
+  "version" "6.6.1"
+  dependencies:
+    "@remix-run/router" "1.2.1"
+
+>>>>>>> Stashed changes
+"react-scripts@5.0.1":
+  "integrity" "sha512-8VAmEm/ZAwQzJ+GOMLbBsTdDKOpuZh7RPs0UymvBR2vRk4iZWCskjbFnxqjrzoIvlNNRZ3QJFx6/qDSi6zSnaQ=="
+  "resolved" "https://registry.npmjs.org/react-scripts/-/react-scripts-5.0.1.tgz"
+  "version" "5.0.1"
+>>>>>>> Stashed changes
   dependencies:
     "@babel/core" "^7.16.0"
     "@pmmmwh/react-refresh-webpack-plugin" "^0.5.3"
@@ -7528,10 +7736,21 @@ react-scripts@5.0.1:
   optionalDependencies:
     fsevents "^2.3.2"
 
+<<<<<<< Updated upstream
 react@^18.2.0:
   version "18.2.0"
   resolved "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
   integrity sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==
+=======
+<<<<<<< Updated upstream
+"react@^18.0.0", "react@^18.2.0", "react@>= 16":
+=======
+"react@^18.0.0", "react@^18.2.0", "react@>= 16", "react@>=16.8":
+>>>>>>> Stashed changes
+  "integrity" "sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ=="
+  "resolved" "https://registry.npmjs.org/react/-/react-18.2.0.tgz"
+  "version" "18.2.0"
+>>>>>>> Stashed changes
   dependencies:
     loose-envify "^1.1.0"
 
